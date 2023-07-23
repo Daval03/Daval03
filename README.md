@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/cambroneroaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cambroneroaldo" height="40" width="40" /></a>
 <a href="https://discord.gg/daval03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daval03" height="40" width="40" /></a>
-<a href="cambroneroaldo03@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail Badge" /></a>
-<a href="aldocambr@estudiantec.cr" target="_blank"><img src="https://img.icons8.com/color/12x/microsoft-outlook-2019--v2.png"width="40" height="40"alt="Outlook Badge" />
+<a href="cambroneroaldo03@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail Badge" align="center" /></a>
+<a href="aldocambr@estudiantec.cr" target="_blank"><img src="https://img.icons8.com/color/12x/microsoft-outlook-2019--v2.png"width="40" height="40"alt="Outlook Badge" align="center" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
