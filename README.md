@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **cambroneroaldo03@gmail.com**
 
+- 📄 Note **My repositories are a bit disorganized**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cambroneroaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cambroneroaldo" height="30" width="40" /></a>
