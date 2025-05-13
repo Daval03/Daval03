@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Software & Hardware Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=435&lines=Low-level+programming+enthusiast;AI+and+Data+Science+learner;Full-stack+developer;Open-source+contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=435&lines=Low-level+programming+enthusiast;AI+and+Data+Science+learner;Full-stack+developer" alt="Typing SVG" /></a>
 </p>
 
 ## 🚀 About Me
