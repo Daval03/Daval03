@@ -83,7 +83,7 @@ I'm a Computer Engineering student at the *Instituto Tecnológico de Costa Rica*
 1. **Custom Single-Cycle Processor**  
    - Designed and implemented a custom ISA processor in SystemVerilog
    - Features: 32-bit RISC architecture, 16-instruction set, audio processing capabilities
-   - [Explore on GitHub](https://github.com/Daval03/rey1027_computer_architecture_1_2023)
+   - [View Project](https://github.com/Daval03/rey1027_computer_architecture_1_2023)
 
 2. **Multi-Processor Audio Reverberation System**  
    - Developed FPGA-based multi-processor architecture for real-time audio effects
@@ -99,7 +99,7 @@ I'm a Computer Engineering student at the *Instituto Tecnológico de Costa Rica*
    - Implemented Eulerian Video Magnification (EVM) to extract HR/RR from facial videos
    - AI pipeline: MediaPipe face detection + ICA/PCA for signal separation
    - Optimized for Raspberry Pi 4 (Python/OpenCV) with 15 FPS processing
-   - [See Code](https://github.com/Daval03/Eulerian-Vitals-Extractio)
+   - [View Project](https://github.com/Daval03/Eulerian-Vitals-Extraction)
 
 #### 🔍 Neo4j Academic Graph (Full-Stack + Graph DB)
 
@@ -112,7 +112,7 @@ I'm a Computer Engineering student at the *Instituto Tecnológico de Costa Rica*
    - Implemented Cypher queries in Neo4j to map researcher-project-publication networks
    - Data pipeline: CSV ingestion with Python (Pandas) + RESTful CRUD ops via Flask
    - Frontend analytics: React-vis force graphs for interactive collaboration visualization
-   - [See Code](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1/tree/main)
+   - [View Project](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1/tree/main)
 
 
 
