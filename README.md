@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldo Cambronero Ureña</h1>
-<h3 align="center">Currently I'm a Computer Engineering student at Instituto tecnológico de Costa RIca. I have experience in software development in different languages, with over 20 projects designed at an academic level. And finally, in these projects, I have had some experience managing and working with teams of developers.</h3>
+<h3 align="center">I am a Computer Engineering student at the Instituto Tecnológico de Costa Rica, eager to collaborate on software or hardware development projects. With five years of experience, I have worked on various projects involving low-level programming (assembly/HDL) and high-level programming in Python for data analysis and AI models..</h3>
 
 - 📫 How to reach me **cambroneroaldo03@gmail.com**
 
