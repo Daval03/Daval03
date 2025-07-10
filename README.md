@@ -34,7 +34,6 @@ I'm a Computer Engineering student at the *Instituto Tecnológico de Costa Rica*
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -90,7 +89,7 @@ I'm a Computer Engineering student at the *Instituto Tecnológico de Costa Rica*
 2. **Multi-Processor Audio Reverberation System**  
    - Developed FPGA-based multi-processor architecture for real-time audio effects
    - Key components: Pipeline control, memory hierarchy, custom ALU operations
-   - [View Project](https://github.com/Daval03/Arquitectura-de-computadores-II)
+   - [View Project]([https://github.com/Daval03/Arquitectura-de-computadores-II](https://github.com/sebas0163/Arquitectura-de-computadores-II/tree/dev_procesador))
 
 ### 🩺 Eulerian-Vitals-Extraction (AI + Embedded Vision)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Daval03/Eulerian-Vitals-Extraction)
