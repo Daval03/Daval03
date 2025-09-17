@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldo Cambronero Ureña</h1>
-<h3 align="center">Computer Engineering Student | Software & Hardware Developer</h3>
+<h3 align="center">Computer Engineering | Software & Hardware Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=435&lines=Low-level+programming+enthusiast;AI+and+Data+Science+learner;Full-stack+developer" alt="Typing SVG" /></a>
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering student at the *Instituto Tecnológico de Costa Rica* with **5 years of experience** in diverse projects ranging from:
+I'm a Computer Engineering graduate from the *Instituto Tecnológico de Costa Rica* with **5 years of experience** in diverse projects ranging from:
 - Low-level programming (Assembly/HDL)
 - High-level programming (Python for Data Analysis & AI)
 - Full-stack development
