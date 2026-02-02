@@ -1,124 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aldo Cambronero Ureña</h1>
-<h3 align="center">Computer Engineering | Software & Hardware Developer</h3>
+# Hi, I'm Aldo Cambronero Ureña 👋  
+Computer Engineer | Software & Embedded Systems
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=435&lines=Low-level+programming+enthusiast;AI+and+Data+Science+learner;Full-stack+developer" alt="Typing SVG" /></a>
-</p>
+I’m a Computer Engineering graduate from Instituto Tecnológico de Costa Rica.  
+I work across **embedded systems, low-level programming, and AI-driven applications**.
 
-## 🚀 About Me
+### Focus Areas
+- Embedded systems & FPGA
+- C/C++ and Python
+- Computer vision & machine learning
+- Full-stack development (Flask, React)
 
-I'm a Computer Engineering graduate from the *Instituto Tecnológico de Costa Rica* with **5 years of experience** in diverse projects ranging from:
-- Low-level programming (Assembly/HDL)
-- High-level programming (Python for Data Analysis & AI)
-- Full-stack development
-- Embedded systems
+### Selected Projects
+- **Eulerian Vitals Extraction** – Non-invasive heart & respiration rate estimation using OpenCV and EVM on Raspberry Pi.  
+- **Custom ISA Processor (FPGA)** – 32-bit RISC processor designed in SystemVerilog.  
+- **Neo4j Academic Graph** – Full-stack system for research collaboration analysis.
 
-## 📬 Get in Touch
+### Tech Stack
+**Languages:** C, C++, Python, SystemVerilog  
+**AI/ML:** PyTorch, OpenCV, scikit-learn  
+**Web:** Flask, React, Node.js  
+**Systems:** Linux, Raspberry Pi, FPGA, Git
 
-- 📧 **Primary Email**: [cambroneroaldo03@gmail.com](mailto:cambroneroaldo03@gmail.com)
-- 🎓 **Academic Email**: [aldocambr@estudiantec.cr](mailto:aldocambr@estudiantec.cr)
-- 📄 **Note**: My repositories are currently being reorganized for better accessibility
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cambroneroaldo)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/daval03)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cambroneroaldo03@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aldocambr@estudiantec.cr)
-
-</div>
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Other Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daval03&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daval03&layout=compact&theme=radical)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daval03&theme=radical)
-
-</div>
-
-## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Backend and Frontend 
-- Embedded systems optimization
-
-## 💡 Projects I'm Proud Of
-### 🎛️ Custom ISA Processor Design (FPGA Implementation)
-[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0181FF?style=flat&logo=verilog&logoColor=white)](https://github.com/Daval03/rey1027_computer_architecture_1_2023)
-[![FPGA](https://img.shields.io/badge/FPGA-%23DD0031.svg?style=flat&logo=xilinx&logoColor=white)](https://github.com/Daval03/Arquitectura-de-computadores-II)
-
-1. **Custom Single-Cycle Processor**  
-   - Designed and implemented a custom ISA processor in SystemVerilog
-   - Features: 32-bit RISC architecture, 16-instruction set, audio processing capabilities
-   - [View Project](https://github.com/Daval03/rey1027_computer_architecture_1_2023)
-
-2. **Multi-Processor Audio Reverberation System**  
-   - Developed FPGA-based multi-processor architecture for real-time audio effects
-   - Key components: Pipeline control, memory hierarchy, custom ALU operations
-   - [View Project](https://github.com/sebas0163/Arquitectura-de-computadores-II/tree/dev_procesador)
-
-### 🩺 Eulerian-Vitals-Extraction (AI + Embedded Vision)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Daval03/Eulerian-Vitals-Extraction)
-[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://github.com/Daval03/Eulerian-Vitals-Extraction)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://github.com/Daval03/Eulerian-Vitals-Extraction)
-
-3. **Non-Invasive Vital Signs Monitoring**  
-   - Implemented Eulerian Video Magnification (EVM) to extract HR/RR from facial videos
-   - AI pipeline: MediaPipe face detection + ICA/PCA for signal separation
-   - Optimized for Raspberry Pi 4 (Python/OpenCV) with 15 FPS processing
-   - [View Project](https://github.com/Daval03/Eulerian-Vitals-Extraction)
-
-#### 🔍 Neo4j Academic Graph (Full-Stack + Graph DB)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1)
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1)
-
-4. **Academic Collaboration Graph Engine**  
-   - Implemented Cypher queries in Neo4j to map researcher-project-publication networks
-   - Data pipeline: CSV ingestion with Python (Pandas) + RESTful CRUD ops via Flask
-   - Frontend analytics: React-vis force graphs for interactive collaboration visualization
-   - [View Project](https://github.com/Daval03/BasesDeDatosAvanzados.Proyecto1/tree/main)
-
-
-
-## 📫 Let's Collaborate!
-I'm always open to interesting projects and collaborations. Feel free to reach out if you have:
-- 🤖 An interesting hardware project
-- 📊 Data analysis/AI challenges
-- 🌐 Full-stack development opportunities
+### Contact
+- Email: cambroneroaldo03@gmail.com  
+- GitHub: https://github.com/Daval03  
+- LinkedIn: https://www.linkedin.com/in/aldo-cambronero-ureña-56b525244
