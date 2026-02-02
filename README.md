@@ -14,6 +14,8 @@ I work across **embedded systems, low-level programming, and AI-driven applicati
 - **Eulerian Vitals Extraction** – Non-invasive heart & respiration rate estimation using OpenCV and EVM on Raspberry Pi.  
 - **Custom ISA Processor (FPGA)** – 32-bit RISC processor designed in SystemVerilog.  
 - **Neo4j Academic Graph** – Full-stack system for research collaboration analysis.
+- **CppRedis** – Redis-compatible server implemented in C++ with custom TCP networking and in-memory storage.
+
 
 ### Tech Stack
 **Languages:** C, C++, Python, SystemVerilog  
